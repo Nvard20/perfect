@@ -95,7 +95,8 @@ list-style: none;
     max-width: 1920px;
     max-height: 800px;
     margin-top: 120px;
-    overflow: hidden !important;
+        overflow: hidden;
+
 }
 .slide-img{
     display: block;
